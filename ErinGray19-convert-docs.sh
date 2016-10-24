@@ -5,17 +5,17 @@
 title="Assignment 3
 "
 # Convert markdown to HTML
-pandoc -o example.html example.md
+pandoc -o NotesonRainPaper.html NotesonRainPaper.md
 
 # Convert markdown to DOCX
-pandoc -o example.docx example.md
+pandoc -o NotesonRainPaper.docx NotesonRainPaper.md
 
 # Convert markdown to ODT
-pandoc -o example.odt example.md
+pandoc -o NotesonRainPaper.odt NotesonRainPaper.md
 
 # Convert markdown to PDF
-pandoc -o example.pdf example.md
+pandoc -o NotesonRainPaper.pdf NotesonRainPaper.md
 
 
 # Make the command line read "Converted INPUT-FILENAME to HTML, DOCX, ODT, PDF
-echo "Converted INPUT-FILENAME to HTML, DOCX, ODT, PDF"
+echo "Converted NotesonRainPaper to HTML, DOCX, ODT, PDF"
