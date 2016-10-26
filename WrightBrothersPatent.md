@@ -21,6 +21,14 @@ Archives has a long history of thieves pilfering some of America’s most
 precious artifacts (Ferriero), as well as over 269 millions patents
 stored, wherein one folder could easily be misplaced.
 
+| Other Missing Documents         | Date Created |
+|---------------------------------|--------------|
+| Eli Whitney Cotton Gin Drawing  | 1804         |
+| Hiroshima Target Map            | 1945         |
+| Nagasaki Target Map             | 1945         |
+| Polesti Mission Report          | 1943         |
+| Wright Brothers' Flying Machine | 1903         |
+
 A team of recovery agents launched a targeted search to recover
 alienated and stolen archival materials, and were able to recover the
 missing patent and subsequent documents in a limestone storage cave in
