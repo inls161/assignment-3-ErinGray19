@@ -19,3 +19,11 @@ pandoc -o NotesonRainPaper.pdf NotesonRainPaper.md
 
 # Make the command line read "Converted INPUT-FILENAME to HTML, DOCX, ODT, PDF
 echo "Converted NotesonRainPaper to HTML, DOCX, ODT, PDF"
+
+ today() {
+    echo -n "Files Created: "
+    date +%m-%d-%Y
+}
+
+# Tell today's date
+echo "$(today)" 
