@@ -1,13 +1,14 @@
-<center> <h1> <u> Wright Brothers’ Patent </u> </h1> </center>
+#Wright Brothers’ Patent
 
-In 2000 the <b>National Archives</b> were setting up for a turn of the century
+In 2000 the **National Archives** were setting up for a turn of the century
 exhibit and went to pull what could arguably be considered one of the
 nation’s most important historical documents, to discover it missing
 (Lewis). It turns out that the last time that the patent for the Wright
-Brother’s “Flying Machine” was last seen after an exhibit in <i> 1979 </i> to
+Brother’s “Flying Machine” was last seen after an exhibit in *1979* to
 celebrate the 75^th^ year anniversary of the filing of the patent, and
 the anniversary of the creation of flight as we know it. (“National
 Archives Honors Wright Brothers with Upcoming Special Display”).
+
 ![](media/image1.jpeg)
 
 ![](media/image2.jpeg)
