@@ -5,16 +5,16 @@
 title="Assignment 3
 "
 # Convert markdown to HTML
-pandoc -o WrightBrothersPatent.html WrightBrothersPatent.md
+pandoc -S -o WrightBrothersPatent.html WrightBrothersPatent.md
 
 # Convert markdown to DOCX
-pandoc -o WrightBrothersPatent.docx WrightBrothersPatent.md
+pandoc -S -o WrightBrothersPatent.docx WrightBrothersPatent.md
 
 # Convert markdown to ODT
-pandoc -o WrightBrothersPatent.odt WrightBrothersPatent.md
+pandoc -S -o WrightBrothersPatent.odt WrightBrothersPatent.md
 
 # Convert markdown to PDF
-pandoc -o WrightBrothersPatent.pdf WrightBrothersPatent.md
+pandoc -S -o WrightBrothersPatent.pdf WrightBrothersPatent.md
 
 
 # Make the command line read "Converted INPUT-FILENAME to HTML, DOCX, ODT, PDF

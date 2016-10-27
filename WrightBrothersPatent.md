@@ -1,4 +1,4 @@
-#Wright Brothers’ Patent
+#Wright Brothers Patent
 
 In 2000 the **National Archives** were setting up for a turn of the century
 exhibit and went to pull what could arguably be considered one of the
